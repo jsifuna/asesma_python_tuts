@@ -3,13 +3,6 @@ import sys
 import numpy as np
 from scipy.optimize import curve_fit
 import matplotlib.pyplot as plt
-
-##########################################################################################################################
-#  After seeing hpw it became difficult in fitting the volume data relationship of non cubic crystals, I came up with    #
-#  this script. Feel free to use it.                                                                                     #
-#  JAMES SIFUNA-MATERIALS MODELING GROUP OF THE TECHNICAL UNIVERSITY OF KENYA                                            #
-#  MAY 2019, AT SANTANDER, SPAIN                                                                                         #
-##########################################################################################################################
 #!/usr/bin/env python
 #import sys
 #import numpy as np
